@@ -1,0 +1,6 @@
+{
+  "name": "Ludhiana Tarot Oracle",
+  "description": "Professional Tarot Reading and Crystal Healing in Ludhiana. Automated bookings, interactive Crystal Store, and an Admin Dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
